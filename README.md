@@ -4,7 +4,7 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=EnjoyMickeyDev&show_icons=true&theme=midnight-purple)</br>
 
 [![stats](https://github-readme-stats.vercel.app/api/wakatime?username=@0bbcea41-697b-4ca8-8944-5aa93bf156c5&theme=midnight-purple)](https://wakatime.com/@0bbcea41-697b-4ca8-8944-5aa93bf156c5) -->
-  Привет всем 👋
+  ![:the_jam:](https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1) Привет всем 👋
   Меня зовут Миша, и я 20-летний разработчик Python.
 
   🔭 В настоящее время я работаю над
