@@ -18,7 +18,8 @@
   📫 Как связаться со мной:
 
   Электронная почта: support@metzker.tech
-
+  
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
   Discord:
   
