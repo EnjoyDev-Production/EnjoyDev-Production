@@ -19,7 +19,8 @@
 
   Электронная почта: support@metzker.tech
   
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
+  ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
   Discord:
   
