@@ -102,7 +102,7 @@
   
   📑 Documentation Platforms:
 
-  Wikipedia	Wikipedia	![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
+  ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
   
   🗄️ Servers:
   
