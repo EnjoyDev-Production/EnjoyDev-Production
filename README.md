@@ -19,8 +19,8 @@
 
   Электронная почта: support@metzker.tech
   
-  [![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers)
+  [[![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers)](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3)
 
   Discord:
   
