@@ -23,3 +23,6 @@
   Discord:
   
   [![Discord Presence](https://lanyard.cnrad.dev/api/627925818429145119)](https://discord.com/users/627925818429145119)
+
+  DataBase:
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
