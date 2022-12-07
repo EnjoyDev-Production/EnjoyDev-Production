@@ -6,18 +6,18 @@
 [![stats](https://github-readme-stats.vercel.app/api/wakatime?username=@0bbcea41-697b-4ca8-8944-5aa93bf156c5&theme=midnight-purple)](https://wakatime.com/@0bbcea41-697b-4ca8-8944-5aa93bf156c5) -->
   ![:the_jam:](https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1) Привет всем 👋
   Меня зовут Миша, и я 20-летний разработчик Python.
-
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
   🔭 В настоящее время я работаю над
 
   EnjoyMickey, многоцелевой бот Discord с закрытым исходным кодом.
   
   🌱 Личный сайт:
-  https://metzker.tech/
+  https://metzker.tech/ - сверчки в данный момент ничего не стрекочут
 
-  сверчки в данный момент ничего не стрекочут
+  
   📫 Как связаться со мной:
 
-  Электронная почта: geek@gaminggeek.dev
+  Электронная почта: support@metzker.tech
 
 
   Discord:
