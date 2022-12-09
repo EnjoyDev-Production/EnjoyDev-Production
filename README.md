@@ -82,3 +82,7 @@
   Discord Profile:
   
   [![Discord Presence](https://lanyard.cnrad.dev/api/627925818429145119)](https://discord.com/users/627925818429145119)
+  
+  [![Discord Presence](https://lanyard.cnrad.dev/api/627925818429145119)](https://discord.com/users/627925818429145119)
+  
+  ![:the_jam:]([https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1](https://media.discordapp.net/attachments/1044405873067438210/1046601926843826176/Snowsgiving2022_Logo.png?width=1440&height=405))
