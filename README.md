@@ -7,12 +7,7 @@
 
   ![:the_jam:](https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1)
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=9&pause=1000&color=24F737&width=435&lines=Hello+everyone%2C+My+name+is+Mikhail%2C+and+I+am+a+20-year-old+Python+developer.)](https://git.io/typing-svg)
-  
-   Discord Profile:
-  
-  [![Discord Presence](https://lanyard.cnrad.dev/api/627925818429145119)](https://discord.com/users/627925818429145119)
-  
-  
+   
   🔭 I am currently working on
 
   EnjoyMickey, closed-source multi-purpose Discord bot.
@@ -84,3 +79,6 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)  
 
+  Discord Profile:
+  
+  [![Discord Presence](https://lanyard.cnrad.dev/api/627925818429145119)](https://discord.com/users/627925818429145119)
