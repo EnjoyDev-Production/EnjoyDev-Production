@@ -4,6 +4,11 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=EnjoyMickeyDev&show_icons=true&theme=midnight-purple)</br>
 
 [![stats](https://github-readme-stats.vercel.app/api/wakatime?username=@0bbcea41-697b-4ca8-8944-5aa93bf156c5&theme=midnight-purple)](https://wakatime.com/@0bbcea41-697b-4ca8-8944-5aa93bf156c5) -->
+
+   Discord Profile:
+  
+  [![Discord Presence](https://lanyard.cnrad.dev/api/627925818429145119)](https://discord.com/users/627925818429145119)
+  
   ![:the_jam:](https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1)
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=9&pause=1000&color=24F737&width=435&lines=Hello+everyone%2C+My+name+is+Mikhail%2C+and+I+am+a+20-year-old+Python+developer.)](https://git.io/typing-svg)
   
@@ -18,12 +23,6 @@
   📫 How to contact me:
 
   Email: support@metzker.tech
-
-  Discord Profile:
-  
-  [![Discord Presence](https://lanyard.cnrad.dev/api/627925818429145119)](https://discord.com/users/627925818429145119)
-  
-  
   
   💼 Work/Jobs:
 
