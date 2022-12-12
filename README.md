@@ -83,8 +83,5 @@
   
   [![Discord Presence](https://demo.reboot.su/assets/api/627925818429145119.png)](https://discord.com/users/627925818429145119)
   
-  <a href="https://github.com/EnjoyMickeyDev/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats-git-masterrstaa-EnjoyMickeyDev.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-light-mode-only" alt="Rick Staa's Language stats" />
-
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnjoyMickeyDev)](https://github.com/anuraghazra/github-readme-stats)
   
