@@ -83,6 +83,7 @@
   
   [![Discord Presence](https://demo.reboot.su/assets/api/627925818429145119.png)](https://discord.com/users/627925818429145119)
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnjoyMickeyDev)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnjoyMickeyDev&theme=tokyonight)
+
   
   
