@@ -83,7 +83,7 @@
   
   [![Discord Presence](https://demo.reboot.su/assets/api/627925818429145119.png)](https://discord.com/users/627925818429145119)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enjoymickeydev&layout=compact)](https://github.com/enjoymickeydev/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnjoyMickeyDev&langs_count=10)](https://github.com/EnjoyMickeyDev/github-readme-stats)
 
   
   
