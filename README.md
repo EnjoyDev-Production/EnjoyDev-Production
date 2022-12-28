@@ -81,7 +81,8 @@
 
   Discord Profile:
   
-  [![Discord Presence](https://demo.reboot.su/assets/api/627925818429145119.png)](https://discord.com/users/627925818429145119)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnjoyMickeyDev)]
+<!--   [![Discord Presence](https://demo.reboot.su/assets/api/627925818429145119.png)](https://discord.com/users/627925818429145119) -->
   
 
 
