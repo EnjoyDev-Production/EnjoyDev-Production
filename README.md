@@ -56,6 +56,7 @@
 
 <p align="center">
   <!-- Discord Nitro -->
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/discord-active-developer-badge.png" alt="discord-active-developer-badge"/>
   <img src="https://img.shields.io/badge/Discord%20Nitro-✓-%237289DA?style=for-the-badge&logo=discord" alt="Discord Nitro" />
   
   <!-- Discord Partner -->
