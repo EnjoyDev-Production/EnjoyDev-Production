@@ -54,13 +54,13 @@
 
 ## 🎉 Discord Badges
 
-<img src="https://static-discord-badge.vercel.app/?username=EnjoyMickey#1234&flag=nitro" alt="Discord Nitro" />
+<img src="https://static-discord-badge.vercel.app/?username=enjoymickey&flag=nitro" alt="Discord Nitro" />
   
 <!-- Discord Partner -->
-<img src="https://static-discord-badge.vercel.app/?username=EnjoyMickey#1234&flag=partner" alt="Discord Partner" />
+<img src="https://static-discord-badge.vercel.app/?username=enjoymickey&flag=partner" alt="Discord Partner" />
 
 <!-- Discord HypeSquad Events -->
-<img src="https://static-discord-badge.vercel.app/?username=EnjoyMickey#1234&flag=hypesquad-events" alt="HypeSquad Events" />
+<img src="https://static-discord-badge.vercel.app/?username=enjoymickey&flag=hypesquad-events" alt="HypeSquad Events" />
 
 
 ---
