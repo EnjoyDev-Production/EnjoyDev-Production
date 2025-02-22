@@ -7,10 +7,6 @@
 
 ## 🌟 О себе
 
-<p align="center">
-  <img src="https://github.com/EnjoyMickeyDev/EnjoyMickeyDev/blob/main/assets/profile-pic.png?raw=true" width="150" height="150" style="border-radius: 50%;" alt="Profile Picture" />
-</p>
-
 Я — **Miki**, начинающий разработчик, увлеченный созданием инновационных решений. Моя цель — постоянно учиться и внедрять передовые технологии.
 
 - 💻 Работаю с языками: **JavaScript**, **Python**, **HTML/CSS**.
@@ -59,8 +55,8 @@
 ## 🎉 Discord Badges
 
 <p align="center">
-  <img src="https://badges.bar/enjoymickey/discord" alt="Discord Badge" />
-  <img src="https://badges.bar/enjoymickey/nitro" alt="Nitro Badge" />
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+  <img src="https://badges.bar/enjoymickey/nitro" alt="Discord Badge" />
 </p>
 
 > **Примечание:** Для отображения значков Discord (например, Nitro) можно использовать сторонние сервисы, такие как [badges.bar](https://badges.bar). Замените `Miki` на ваш Discord-ник.
