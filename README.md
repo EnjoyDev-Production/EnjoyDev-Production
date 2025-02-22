@@ -54,7 +54,7 @@
 
 ## 🎉 Discord Badges
 
-<img src="https://static-discord-badge.vercel.app/?username=enjoymickey&flag=nitro" alt="Discord Nitro" />
+<img src="https://static-discord-badge.vercel.app/?id=627925818429145119&flag=nitro" alt="Discord Nitro" />
   
 <!-- Discord Partner -->
 <img src="https://static-discord-badge.vercel.app/?username=enjoymickey&flag=partner" alt="Discord Partner" />
