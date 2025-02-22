@@ -55,15 +55,12 @@
 ## 🎉 Discord Achievements
 
 <p align="center">
-  <!-- Discord Nitro -->
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/discord-nitro-badge.png" alt="discord-nitro-badge"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/discord-active-developer-badge.png" alt="discord-active-developer-badge"/>
-  <img src="https://img.shields.io/badge/Discord%20Nitro-✓-%237289DA?style=for-the-badge&logo=discord" alt="Discord Nitro" />
-  
-  <!-- Discord Partner -->
-  <img src="https://img.shields.io/badge/Discord%20Partner-✓-%237289DA?style=for-the-badge&logo=discord" alt="Discord Partner" />
-  
-  <!-- HypeSquad Events -->
-  <img src="https://img.shields.io/badge/HypeSquad%20Events-✓-%237289DA?style=for-the-badge&logo=discord" alt="HypeSquad Events" />
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/discord-hypesquad-events-badge.png" alt="discord-hypesquad-events-badge"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/discord-early-supporter-badge.png" alt="discord-early-supporter-badge"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/discord-hypesquad-balance-house-badge.png" alt="discord-hypesquad-balance-house-badge"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/discord-early-verified-bot-developer-badge.png" alt="discord-early-verified-bot-developer-badge"/>
 </p>
 
 
