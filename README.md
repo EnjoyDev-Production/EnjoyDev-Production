@@ -51,13 +51,8 @@
 Хотите связаться со мной? Вот мои контакты:
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/YourTwitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://discord.com/users/ВАШ_ДИСКОРД_НИК"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white"/></a>
+  <a href="https://discord.com/users/enjoymickey"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 </p>
-
-> **Примечание:** Замените `https://discord.com/users/enjoymickey`
 
 ---
 
