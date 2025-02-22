@@ -54,12 +54,14 @@
 
 ## 🎉 Discord Badges
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
-  <img src="https://badges.bar/enjoymickey/nitro" alt="Discord Badge" />
-</p>
+<img src="https://static-discord-badge.vercel.app/?username=EnjoyMickey#1234&flag=nitro" alt="Discord Nitro" />
+  
+<!-- Discord Partner -->
+<img src="https://static-discord-badge.vercel.app/?username=EnjoyMickey#1234&flag=partner" alt="Discord Partner" />
 
-> **Примечание:** Для отображения значков Discord (например, Nitro) можно использовать сторонние сервисы, такие как [badges.bar](https://badges.bar). Замените `Miki` на ваш Discord-ник.
+<!-- Discord HypeSquad Events -->
+<img src="https://static-discord-badge.vercel.app/?username=EnjoyMickey#1234&flag=hypesquad-events" alt="HypeSquad Events" />
+
 
 ---
 
