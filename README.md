@@ -1,5 +1,4 @@
-# <p align="center">👋 Привет! Я [Ваше имя] — разработчик будущего</p>
-
+# <p align="center">👋 Привет! Я Miki — разработчик</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=37B9F5&center=true&vCenter=true&width=800&lines=Привет,+мир!;Я+разработчик+с+большими+амбициями;Моя+цель:+создавать+красивые+и+функциональные+вещи" alt="Typing SVG" />
 </p>
@@ -12,7 +11,7 @@
   <img src="https://github.com/EnjoyMickeyDev/EnjoyMickeyDev/blob/main/assets/profile-pic.png?raw=true" width="150" height="150" style="border-radius: 50%;" alt="Profile Picture" />
 </p>
 
-Я — **[Ваше имя]**, начинающий/опытный разработчик, увлеченный созданием инновационных решений. Моя цель — постоянно учиться и внедрять передовые технологии.
+Я — **Miki**, начинающий разработчик, увлеченный созданием инновационных решений. Моя цель — постоянно учиться и внедрять передовые технологии.
 
 - 💻 Работаю с языками: **JavaScript**, **Python**, **HTML/CSS**.
 - ⚙️ Использую инструменты: **Git**, **GitHub**, **VS Code**.
@@ -47,22 +46,6 @@
 
 ---
 
-## 📋 Проекты
-
-Вот несколько из моих проектов:
-
-### 🚀 Проект #1: [Название проекта]
-- **Описание:** Короткое описание проекта.
-- **Технологии:** HTML, CSS, JavaScript.
-- **Ссылка:** [GitHub Repository](https://github.com/EnjoyMickeyDev/project1)
-
-### 🚀 Проект #2: [Название проекта]
-- **Описание:** Короткое описание проекта.
-- **Технологии:** Python, Flask.
-- **Ссылка:** [GitHub Repository](https://github.com/EnjoyMickeyDev/project2)
-
----
-
 ## 📞 Контакты
 
 Хотите связаться со мной? Вот мои контакты:
@@ -71,16 +54,21 @@
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/YourTwitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://discord.com/users/ВАШ_ДИСКОРД_НИК"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 </p>
+
+> **Примечание:** Замените `https://discord.com/users/ВАШ_ДИСКОРД_НИК` на ваш реальный Discord-ник (например, `Miki#1234`).
 
 ---
 
-## 🎉 Благодарности
+## 🎉 Discord Badges
 
-Большое спасибо всем, кто помогает мне учиться и развиваться! Особая благодарность:
-- [FreeCodeCamp](https://freecodecamp.org) за отличные учебные материалы.
-- [Stack Overflow](https://stackoverflow.com) за помощь в решении проблем.
-- [GitHub](https://github.com) за предоставление этой платформы.
+<p align="center">
+  <img src="https://badges.bar/Miki/discord" alt="Discord Badge" />
+  <img src="https://badges.bar/Miki/nitro" alt="Nitro Badge" />
+</p>
+
+> **Примечание:** Для отображения значков Discord (например, Nitro) можно использовать сторонние сервисы, такие как [badges.bar](https://badges.bar). Замените `Miki` на ваш Discord-ник.
 
 ---
 
