@@ -1,6 +1,5 @@
-# <p align="center">👋 Привет! Я Miki — разработчик</p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=37B9F5&center=true&vCenter=true&width=800&lines=Привет,+мир!;Я+разработчик+с+большими+амбициями;Моя+цель:+создавать+красивые+и+функциональные+вещи" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=37B9F5&center=true&vCenter=true&width=800&lines=Привет,+я+Miki!;Я+разработчик+с+большими+амбициями;Моя+цель:+создавать+красивые+и+функциональные+вещи" alt="Typing SVG" />
 </p>
 
 ---
