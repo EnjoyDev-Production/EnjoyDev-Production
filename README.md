@@ -69,6 +69,3 @@
 
 Если вам понравилась моя работа, поделитесь этим репозиторием с друзьями или оставьте звезду ⭐ на GitHub. Это поможет другим найти меня!
 
-<p align="center">
-  <a href="https://github.com/EnjoyMickeyDev"><img src="https://visitor-badge.glitch.me/badge?page_id=EnjoyMickeyDev.EnjoyMickeyDev&left_color=gray&right_color=green" /></a>
-</p>
