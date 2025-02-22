@@ -57,15 +57,15 @@
   <a href="https://discord.com/users/ВАШ_ДИСКОРД_НИК"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 </p>
 
-> **Примечание:** Замените `https://discord.com/users/ВАШ_ДИСКОРД_НИК` на ваш реальный Discord-ник (например, `Miki#1234`).
+> **Примечание:** Замените `https://discord.com/users/enjoymickey`
 
 ---
 
 ## 🎉 Discord Badges
 
 <p align="center">
-  <img src="https://badges.bar/Miki/discord" alt="Discord Badge" />
-  <img src="https://badges.bar/Miki/nitro" alt="Nitro Badge" />
+  <img src="https://badges.bar/enjoymickey/discord" alt="Discord Badge" />
+  <img src="https://badges.bar/enjoymickey/nitro" alt="Nitro Badge" />
 </p>
 
 > **Примечание:** Для отображения значков Discord (например, Nitro) можно использовать сторонние сервисы, такие как [badges.bar](https://badges.bar). Замените `Miki` на ваш Discord-ник.
